@@ -1,0 +1,2 @@
+# Ducky
+Squid Game
